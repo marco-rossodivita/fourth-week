@@ -1,0 +1,13 @@
+button {
+    margin: 24px;
+}
+
+.no-left-margin {
+    margin-left: 0;
+}
+
+table {
+    width: 80%;
+    left: 10%;
+    position: absolute;
+}

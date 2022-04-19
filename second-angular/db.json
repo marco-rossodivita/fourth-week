@@ -1,0 +1,76 @@
+{
+  "devices": [
+    {
+      "label": "One Plus 13",
+      "os": "ios",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 13 is a flagship phone...",
+      "id": 7
+    },
+    {
+      "label": "One Plus 12",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 12 is a flagship phone...",
+      "id": 6
+    },
+    {
+      "label": "One Plus 11",
+      "os": "ios",
+      "price": 450,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 11 is a flagship phone...",
+      "id": 5
+    },
+    {
+      "label": "One Plus 18",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 10 is a flagship phone...",
+      "id": 4
+    },
+    {
+      "label": "One Plus 14",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 9 is a flagship phone...",
+      "id": 3
+    },
+    {
+      "label": "One Plus 8",
+      "os": "android",
+      "price": 750,
+      "rate": 3,
+      "memory": 7400,
+      "desc": "One Plus 8 is a flagship phone...",
+      "id": 2
+    },
+    {
+      "label": "IPhone 7 +",
+      "os": "ios",
+      "price": 700,
+      "rate": 3,
+      "memory": 3000,
+      "desc": "",
+      "id": 24
+    },
+    {
+      "label": "Nokia 5570",
+      "price": 700,
+      "os": "ios",
+      "id": 25
+    }
+  ],
+  "login": {
+    "token": "efoiwejo32r32-fake-token"
+  }
+}
