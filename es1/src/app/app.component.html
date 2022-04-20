@@ -1,0 +1,16 @@
+<app-toolbar></app-toolbar>
+
+<app-img></app-img>
+
+<app-icons ccBackround></app-icons>
+
+<div class="x" ccBackround>
+  <app-lista></app-lista>
+  <app-form></app-form>
+</div>
+
+
+<div *unless="!condition" class="unless a">
+  this div is showed
+  <p>Multiplier: {{2 | multiplier: '10'}}</p>
+</div>

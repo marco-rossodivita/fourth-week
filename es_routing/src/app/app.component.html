@@ -1,0 +1,21 @@
+
+   <mat-toolbar color="primary">
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>Esercizio routing</span>
+    <span class="example-spacer"></span>
+    <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+      <mat-icon>favorite</mat-icon>
+    </button>
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+      <mat-icon>share</mat-icon>
+    </button>
+  </mat-toolbar>
+
+  <mat-button-toggle-group id="choice" name="favoriteColor" aria-label="Favorite Color" >
+    <mat-button-toggle value="red" [routerLink]="['pagina1']">Pagina 1</mat-button-toggle  >
+    <mat-button-toggle value="green" [routerLink]="['pagina2']">Pagina 2</mat-button-toggle  >
+    <mat-button-toggle value="blue" [routerLink]="['pagina3']">Pagina 3</mat-button-toggle  >
+  </mat-button-toggle-group>
+<router-outlet></router-outlet>

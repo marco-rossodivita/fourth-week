@@ -1,0 +1,21 @@
+.x{
+    
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 20px;
+  
+}
+
+.x app-lista{
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 50px;
+    background-color: aquamarine;
+}
+
+.x app-form{
+    width: 50%;
+    margin-right: 50px;
+    margin-left: 50px;
+}
